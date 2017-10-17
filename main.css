@@ -1,0 +1,51 @@
+.contenedor{
+	background-color: #d8bfd8;
+	border: 1px solid #77b5fe;
+	overflow: hidden;  /*Para un menu por ejemplo*/
+	/* position: fixed;  */
+}
+
+h1{
+	text-align: center;
+}
+/*ul{
+	margin-left: 445px;
+}*/
+li{
+	float: left;
+	height: 30px;
+	margin: 20px;
+}
+
+.imagen1{
+	height: 300px;
+	width: 300px;
+	float: right;
+	margin: 0em 2em;
+	border: 1px solid #77b5fe;
+}
+
+.imagen2{
+	height: 300px;
+	width: 300px;
+	float: left;
+	margin: 0em 2em;
+	border: 1px solid #77b5fe;
+}
+
+.fa-telegram{
+	color: pink;
+	font-size: 40px;
+}
+
+.fa-pagelines{
+	color: #FF8361;
+	font-size: 40px;
+}
+
+.fa-facebook-square{
+	color: #87FF8D;
+	font-size: 40px;
+}
+
+
